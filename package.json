@@ -6,5 +6,6 @@
   "dependencies": {
     "mongoose": "^4.2.3"
   },
-  "repository": ""
+  "repository": "https://github.com/platdesign/hapi-viper-mongoose.git",
+  "license":"pd"
 }
