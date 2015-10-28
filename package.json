@@ -2,10 +2,10 @@
   "name": "hapi-viper-mongoose",
   "description": "hapi viper mongoose plugin",
   "author": "Christian Blaschke <mail@platdesign.de>",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "dependencies": {
     "mongoose": "^4.2.3"
   },
   "repository": "https://github.com/platdesign/hapi-viper-mongoose.git",
-  "license":"pd"
+  "license": "pd"
 }
